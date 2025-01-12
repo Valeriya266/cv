@@ -15,7 +15,7 @@
 * html
 * CSS
 * Sass
-* БЭМ
+* BEM
 * Figma
 * JavaScript
 * React
