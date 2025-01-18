@@ -5,11 +5,17 @@
 * email: valeriyastoyan26@gmail.com
 * tg: @freeunco
 
-*I am an aspiring Frontend Developer specializing in JavaScript and React.js, seeking my professional role in the industry. I have honed my skills by completing numerous challenges on Codewars, several comprehensive courses on platforms like Udemy, and by developing multiple projects hosted on GitHub. My self-driven learning has equipped me with a solid foundation in modern web technologies.*
+*I am a frontend developer with one years of freelance experience in JavaScript, React and associated technologies, seeking my professional role in the industry. I have honed my skills by completing numerous challenges on Codewars, several comprehensive courses on platforms like Udemy, and by developing multiple projects hosted on GitHub. My self-driven learning has equipped me with a solid foundation in web technologies.*
 
-*Transitioning from an career in  international pharmaceautical company, I have gained valuable experience in project management through coordinating  processes in drug registration. This role upgrade my teamwork abilities and required effective communication in English due to the international work process.* 
+*I have a solid grasp of front-end technologies, including HTML, CSS (including SCSS) and Responsive Design principles. I am skilled in using software such as Figma, allowing me to create visually appealing and intuitive user interfaces. My experience also extends to layout techniques such as Flexbox and Grid, ensuring seamless responsiveness across devices.*
 
-*I am looking to apply these skills in the IT industry, contributing my unique perspective to a dynamic team.*  
+*Also my expertise includes a strong understanding of React/Redux and Webpack, which allows me to effectively manage state and bundle projects for optimal performance.*
+
+*Transitioning from an career in international pharmaceautical company, I have gained valuable experience in project management through coordinating  processes in drug registration. This role upgrade my teamwork abilities and required effective communication in English due to the international work process.* 
+
+*I am looking to apply these skills in role of frontend developer.*  
+
+*English level: B2 - C1*
 
 ### My skills:
 * html
