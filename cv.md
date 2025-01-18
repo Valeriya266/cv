@@ -15,9 +15,9 @@
 
 *I am looking to apply these skills in role of frontend developer.*  
 
-*English level: B2 - C1*
+### English - Upper-Intermediate (B2)
 
-### My skills:
+### My hard skills:
 * html
 * CSS
 * Sass
@@ -60,5 +60,3 @@ https://valeriya266.github.io/marvel_starter
 ### Education
 * BSU, chemical faqulty
 * BSMU, pharmaceutical faqulty
-
-### English - Upper-Intermediate (B2)
